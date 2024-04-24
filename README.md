@@ -25,7 +25,6 @@ We also performed feature engineering to create new features, specifically creat
 - Beautiful Soup
 - Pandas, NumPy
 - Scikit-Learn, PyTorch
-- Optuna for hyperparameter tuning
 
 ## Running the Code
 
